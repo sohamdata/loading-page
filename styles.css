@@ -10,6 +10,10 @@ body {
 .horizontal{
     fill: #EEEEEE;
 }
+
+.increment{
+    fill: #979553;
+}
 #app-pre-loader {
     position: fixed;
     top: 0;
